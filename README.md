@@ -10,7 +10,7 @@ This repository contains self-archived preprint versions of research papers auth
 
 ### 2. [Bypassing USB Security with HERMES: A Novel Approach to Dynamic HIDs Simulation](./Bypassing_USB_Security_with_HERMES.pdf)
 - **Authors**: Yu-Wei Hsu, Fu-Hau Hsu, Tzu-Hsun Yuan, Keyuan Wang, Jian-Hung Huang, Hao-Jyun Wang, Jian-Xin Chen, Min-Hao Wu
-- **Status**: Submitted for publication
+- **Status**: Submitted for publication, TDSC-2024-04-045
 
 ## License
 This repository and its contents are for academic and demonstration purposes only. All rights to the research papers remain with the respective authors.
